@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chabertopolo@gmail.com
+	name = Paul Chabert
